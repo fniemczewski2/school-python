@@ -1,0 +1,5 @@
+Poland - Stolica: Warsaw, Ludnosc: 37.9
+Russia - Stolica: Moscow, Ludnosc: 144.1
+England - Stolica: London, Ludnosc: 55.9
+France - Stolica: Paris, Ludnosc: 67.4
+Germany - Stolica: Berlin, Ludnosc: 83.2
